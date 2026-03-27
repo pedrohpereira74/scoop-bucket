@@ -6,14 +6,14 @@
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "40bf1049cd20e8f429b66e67d8ad629356089b2186b9993a0f0f8608e1ab0d29"
+            "hash": "8ca2ba2af01263ba6ed39068eb746a5d2e6567d07642e96640b784c61f303090"
         },
         "arm64": {
             "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.2.1/sadr_Windows_arm64.zip",
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "ed9b2063c117f22c09f466e7a65db936236b36e6295812d3e353235ed61ca85d"
+            "hash": "0fb9be9a4b79377cb94d1c915555022b36538afa18faa553c6cf527dbe9fcf57"
         }
     },
     "homepage": "https://github.com/pedrohpereira74/sadr",
