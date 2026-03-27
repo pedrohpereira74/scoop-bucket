@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.2.0/sadr_Windows_x86_64.zip",
+            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.2.1/sadr_Windows_x86_64.zip",
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "c10bc37297daf00ca61ac59e8da984fa0a69f3076321f95780a3d7057f40299b"
+            "hash": "317b70c2a5637f0f9b4dcaa343b0f04bf96eef8702499b40d04aa7d2fc57d844"
         },
         "arm64": {
-            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.2.0/sadr_Windows_arm64.zip",
+            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.2.1/sadr_Windows_arm64.zip",
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "19897bcd78d92bdf216455957a80367b88f27c4dd27c1a1fde345b4542933150"
+            "hash": "497c84523d90ec5e190e361813fe1797198d5ebb4b9cd803fe16f76c2dd48c28"
         }
     },
     "homepage": "https://github.com/pedrohpereira74/sadr",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "description": "Capture code with context. Because snippets without a 'why' are sadr."
 }
