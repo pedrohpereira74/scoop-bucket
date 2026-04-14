@@ -1,19 +1,19 @@
 {
-    "version": "0.4.3",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.4.3/sadr_Windows_x86_64.zip",
+            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.5.0/sadr_Windows_x86_64.zip",
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "f0424f464a3d79d4b91ab2e4a51084f24baa415bd65cc42a2d1a6400d63a7119"
+            "hash": "04d83fe9e640522288a1987da548e6f9f991ee4a69c66e1a3a97f44ac197cff7"
         },
         "arm64": {
-            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.4.3/sadr_Windows_arm64.zip",
+            "url": "https://github.com/pedrohpereira74/sadr/releases/download/v0.5.0/sadr_Windows_arm64.zip",
             "bin": [
                 "sadr.exe"
             ],
-            "hash": "8b788cadd23949a49fcfc3a3179f56bc853c21b5991577dbbcb197f5f84bb915"
+            "hash": "79caa39e7e2970fe5dda27894a1e852f59131dcee5be26e237513035e72b5f12"
         }
     },
     "homepage": "https://github.com/pedrohpereira74/sadr",
